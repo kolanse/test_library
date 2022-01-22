@@ -1,6 +1,6 @@
 package com.example.initial
 
-class Inititial {
+class Initial {
 
     fun getInitialString(): String {
 

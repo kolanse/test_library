@@ -50,8 +50,8 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.kolanse'
-                artifactId = 'initial'
-                version = '7.0'
+                artifactId = 'later'
+                version = '8.0'
             }
         }
     }
